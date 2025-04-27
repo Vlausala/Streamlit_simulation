@@ -5,9 +5,11 @@ import datetime
 from utils.utils import welcome_message
 from config.api_config import BASE_API_URL, DEFAULT_TUNNIT, DEFAULT_TULOS, DEFAULT_DATE
 
+# Git test
+
 st.set_page_config(page_title="My Streamlit App", layout="wide")
 
-st.title("🚀 Welcome to My Streamlit App")
+st.title("🚀 Welcome to My Streamlit App") 
 st.write(welcome_message())
 
 # --- User Input Section ---
