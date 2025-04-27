@@ -4,16 +4,16 @@ This is a simple Streamlit app.
 
 ## Run locally
 
-Windows
-```powershell
+### Windows
+
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
-streamlit run src/app.py```
+streamlit run src/app.py
 
+### MacOs or Linux
 
-MacOs or Linux
-```bash
+python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-streamlit run src/app.py```
+streamlit run src/app.py
