@@ -7,6 +7,8 @@ from config.api_config import BASE_API_URL, DEFAULT_TUNNIT, DEFAULT_TULOS, DEFAU
 
 # Git test
 
+# Git test new branch
+
 st.set_page_config(page_title="My Streamlit App", layout="wide")
 
 st.title("🚀 Welcome to My Streamlit App") 
