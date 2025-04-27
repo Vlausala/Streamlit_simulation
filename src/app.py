@@ -5,9 +5,6 @@ import datetime
 from utils.utils import welcome_message
 from config.api_config import BASE_API_URL, DEFAULT_TUNNIT, DEFAULT_TULOS, DEFAULT_DATE
 
-# Git test
-
-# Git test new branch fasdfafafafafafa
 
 st.set_page_config(page_title="My Streamlit App", layout="wide")
 
